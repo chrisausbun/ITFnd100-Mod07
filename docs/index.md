@@ -17,6 +17,10 @@ Learned how to pickle data which is basically the concept of security by obscuri
 ## Summary
 After learning everything with Try Except blocks and Pickling, I was able to create an interactive python script file that asks the user for 2 numbers and adds does some simple math calculations while using both ValueError and FileNotFound error handling functions as well as pickles the two numbers selected in a .dat file that is obscured. I’ve added a few screenshots below of it working in PyCharm, Terminal, and shows the output of the .dat file. I've listed my code below, feel free to take a look at it.
 
+Figure 1: https://raw.githubusercontent.com/chrisausbun/ITFnd100-Mod07/master/Screenshot%202020-03-10%2002.05.49.png
+
+Figure 2: https://raw.githubusercontent.com/chrisausbun/ITFnd100-Mod07/master/Screenshot%202020-03-10%2002.02.24.png
+
 ```
 # ---------------------------------------------------------------------------- #
 # Title: Assignment 07
